@@ -46,7 +46,7 @@ social:
   icon_pack: fab
   link: https://twitter.com/Priyank88544513
 - icon: google-scholar
-  icon_pack: ai
+  icon_pack: linkedin
   link: https://www.linkedin.com/in/priyanka-singh-5567a6108/
 - icon: github
   icon_pack: fab
